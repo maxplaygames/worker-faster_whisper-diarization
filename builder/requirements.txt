@@ -1,4 +1,4 @@
-# retry marker: 2026-07-16T19:30:12Z
+# retry marker: 2026-07-16T20:00:16Z
 # newer torchaudio removed AudioMetaData; torch>=2.3 requires numpy>=2, which breaks torch 2.2.2's C extensions.
 runpod~=1.7.9
 faster-whisper==1.1.0
