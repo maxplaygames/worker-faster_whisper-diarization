@@ -2,3 +2,5 @@ runpod~=1.7.9
 faster-whisper==1.1.0
 soundfile
 pyannote.audio==3.3.1
+torch==2.2.2
+torchaudio==2.2.2
