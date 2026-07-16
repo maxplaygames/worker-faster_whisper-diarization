@@ -1,3 +1,5 @@
+# torch/torchaudio/numpy pinned for pyannote.audio 3.3.1 compatibility (2026-07-16):
+# newer torchaudio removed AudioMetaData; torch>=2.3 requires numpy>=2, which breaks torch 2.2.2's C extensions.
 runpod~=1.7.9
 faster-whisper==1.1.0
 soundfile
